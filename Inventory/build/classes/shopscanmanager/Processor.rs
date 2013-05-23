@@ -1,0 +1,2 @@
+shopscanmanager.Informable
+shopscanmanager.Processor
